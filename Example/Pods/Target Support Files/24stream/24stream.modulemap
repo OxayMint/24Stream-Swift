@@ -1,0 +1,6 @@
+framework module _24stream {
+  umbrella header "24stream-umbrella.h"
+
+  export *
+  module * { export * }
+}

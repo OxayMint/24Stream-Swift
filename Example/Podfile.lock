@@ -1,0 +1,16 @@
+PODS:
+  - 24stream (0.1.0)
+
+DEPENDENCIES:
+  - 24stream (from `../`)
+
+EXTERNAL SOURCES:
+  24stream:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  24stream: 70e4e1da3dd72551047d21b8a0847a91e3539fdf
+
+PODFILE CHECKSUM: aba67e5091f7b290cb8d66f51b473491550fe5a8
+
+COCOAPODS: 1.11.3
