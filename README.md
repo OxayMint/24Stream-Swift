@@ -20,9 +20,6 @@ it, simply add the following line to your Podfile:
 pod '24stream'
 ```
 
-## Author
-
-26540645, farhad.g@bestcomp.net
 
 ## License
 
