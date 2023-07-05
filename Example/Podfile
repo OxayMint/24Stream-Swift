@@ -7,7 +7,5 @@ target '24stream_Example' do
 
   target '24stream_Tests' do
     inherit! :search_paths
-
-    
   end
 end
