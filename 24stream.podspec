@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "24stream"
-  spec.version      = "1.0"
+  spec.version      = "1.1"
   spec.summary      = "24Stream plugin for using in iOS applications"
   spec.homepage     = "https://24ttl.net/"
   spec.license      = "MIT"
